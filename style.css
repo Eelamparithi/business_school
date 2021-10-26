@@ -1,3 +1,10 @@
+body{
+    overflow-y: auto;
+}
+body::-webkit-scrollbar{
+    width: 0px;
+}
+
 .navbar{
     position: absolute;
 width: 100%;
@@ -713,7 +720,7 @@ background: url('latest_publications_img3.svg');
 }
 .latest_publications4{
     position: absolute;
-width: 161px;
+width: 264px;
 height: 420px;
 left: 1188px;
 top: 159px;
@@ -1035,7 +1042,7 @@ background-size: 167.285px 460px;
 }*/
 .latest_publications4:hover{
     position: absolute;
-    width: 164.785px;
+    width: 276.57px;
     height: 440px;
     left: 1184.215px;
     top: 149px;
