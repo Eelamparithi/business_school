@@ -5,6 +5,7 @@ body::-webkit-scrollbar{
     width: 0px;
 }
 
+
 .navbar{
     position: absolute;
 width: 1366px;
@@ -156,7 +157,7 @@ padding: 34px 0px 0px 0px;
 
 position: absolute;
 width: 107px;
-height: 57px;
+height: 56px;
 left: 1129px;
 top: 0px;
 
@@ -425,7 +426,7 @@ z-index: 2;
     position: absolute;
 width: 264px;
 height: 528px;
-left: 698px;
+left: 715px;
 top: 100px;
 background: url('research_and_faculty_img2.svg');
 z-index: 2;
@@ -437,7 +438,7 @@ z-index: 2;
     position: absolute;
 width: 264px;
 height: 528px;
-left: 704px;
+left: 720px;
 top: 105px;
 background: url('research_and_faculty_img2.svg');
 z-index: 1;
@@ -446,7 +447,7 @@ z-index: 1;
     position: absolute;
 width: 387px;
 height: 480px;
-left: 962px;
+left: 979px;
 top: 124px;
 
 background: #ABE1FA;
@@ -601,7 +602,7 @@ text-align: center;
 padding: 9px 0px 0px 0px;
 
 color: #0072BC;
-z-index: 2;
+z-index: 4;
 }
 .view_all_faculty:hover{
     background: #0072BC;
@@ -612,10 +613,10 @@ z-index: 2;
 
 .research_and_faculty_bw_img{
     position: absolute;
-width: 300px;
-height: 300px;
-left: 1048px;
-top: 1875.5px;
+width: 400px;
+height: 400px;
+left: 966px;
+top: 537.5px;
 z-index: 1;
 }
 
@@ -723,7 +724,6 @@ width: 264px;
 height: 420px;
 left: 1188px;
 top: 159px;
-
 background: url('latest_publications_img444.jpg');
 }
 
@@ -2007,7 +2007,7 @@ color: #FFFFFF;
     position: absolute;
 width: 400px;
 height: 400px;
-left: -72.06px;
+left: 0px;
 top: 82px;
 
 }
@@ -2777,12 +2777,24 @@ text-align: center;
 
 
 
+
+.faculty1_2nd_section{
+    position: absolute;
+    width: 1366px;
+    top: 90px;
+    height: 852px;
+    left: 0px;
+}
+
+
+
+
 .faculty1_top_bground{
     position: absolute;
 width: 1366px;
 height: 280px;
 left: 0px;
-top: 90px;
+top: 0px;
 
 background: rgba(36, 178, 209,0.2);
 }
@@ -2797,7 +2809,7 @@ background: rgba(36, 178, 209,0.2);
 width: 362px;
 height: 750px;
 left: 110px;
-top: 172.56px;
+top: 82.56px;
 
 filter: drop-shadow(8px 8px 8px rgba(0, 0, 0, 0.15));
 background: #FFFFFF;
@@ -2903,7 +2915,7 @@ background: #AED124;
 width: 135px;
 height: 46px;
 left: 502px;
-top: 410px;
+top: 320px;
 
 font-family: Poppins;
 font-style: normal;
@@ -2921,7 +2933,7 @@ color: #000000;
 width: 757px;
 height: 156px;
 left: 502px;
-top: 476px;
+top: 386px;
 
 font-family: Poppins;
 font-style: normal;
@@ -2938,7 +2950,7 @@ color: #3E3E3E;
 width: 167px;
 height: 46px;
 left: 502px;
-top: 672px;
+top: 582px;
 
 font-family: Poppins;
 font-style: normal;
@@ -2956,7 +2968,7 @@ color: #000000;
 width: 200px;
 height: 40px;
 left: 482px;
-top: 728px;
+top: 638px;
 
 font-family: Poppins;
 font-style: normal;
@@ -3163,47 +3175,11 @@ background: url('faculty1_top_image_img_contact4.svg');
 
 .faculty1_bg_image{
     position: absolute;
-width: 350px;
+width: 400px;
 height: 400px;
-left: 999.4px;
-top: 522.56px;
+left: 1018px;
+top: 435px;
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
